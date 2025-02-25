@@ -7,7 +7,7 @@ Nome: Izabela Naves dos Santos
 Matricula: 859563
 
 ## Tela de inspeção com navegador
+![alt text](inspecaodepagina.png)
 
-
-## Tela de projeto no Replit
-
+## Tela de projeto no navegador
+![Ola mundo](paginaweb.png)
